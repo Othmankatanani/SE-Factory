@@ -136,8 +136,8 @@
 #     return "out-of-bounds"
 
 
-# print(list_jumps([2, -1, 3, 0, 2]))   
-# print(list_jumps([3, 2, -1, 1, 4]))   
+# print(list_jumps([2,-7,3,0,9]))   
+# print(list_jumps([3,2,-1,5,8]))   
 
 
 
